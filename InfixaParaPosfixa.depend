@@ -36,3 +36,24 @@
 	<iostream>
 	"Pilha.h"
 
+1568154253 source:c:\users\lukin\desktop\infixatoposfixarepo\main.cpp
+	<iostream>
+	<stdio.h>
+	"Infixa.h"
+
+1568154253 c:\users\lukin\desktop\infixatoposfixarepo\include\infixa.h
+	"Pilha.h"
+
+1568154982 c:\users\lukin\desktop\infixatoposfixarepo\include\pilha.h
+
+1568154253 source:c:\users\lukin\desktop\infixatoposfixarepo\src\infixa.cpp
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Infixa.h"
+
+1568154840 source:c:\users\lukin\desktop\infixatoposfixarepo\src\pilha.cpp
+	<iostream>
+	"Pilha.h"
+
