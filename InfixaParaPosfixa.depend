@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1568141542 source:c:\myprojects\code_blocks\infixaparaposfixa\main.cpp
+	<iostream>
+	<stdio.h>
+	"Infixa.h"
+
+1568130564 source:c:\myprojects\code_blocks\infixaparaposfixa\src\pilha.cpp
+	<iostream>
+	"Pilha.h"
+
+1568130534 c:\myprojects\code_blocks\infixaparaposfixa\include\pilha.h
+
+1568132638 c:\myprojects\code_blocks\infixaparaposfixa\include\infixa.h
+	"Pilha.h"
+
+1568142590 source:c:\myprojects\code_blocks\infixaparaposfixa\src\infixa.cpp
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Infixa.h"
+
+1568142590 source:c:\users\lukin\desktop\infixaparaposfixa\src\infixa.cpp
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"Infixa.h"
+
+1568132638 c:\users\lukin\desktop\infixaparaposfixa\include\infixa.h
+	"Pilha.h"
+
+1568130534 c:\users\lukin\desktop\infixaparaposfixa\include\pilha.h
+
+1568130564 source:c:\users\lukin\desktop\infixaparaposfixa\src\pilha.cpp
+	<iostream>
+	"Pilha.h"
+
